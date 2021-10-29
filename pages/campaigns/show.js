@@ -3,7 +3,7 @@ import { Card, Grid, Button } from "semantic-ui-react";
 import Layout from "../../components/Layout";
 import Campaign from "../../ethereum/campaign";
 import web3 from "../../ethereum/web3";
-import ContributeForm from "../../components/ContributeForm";
+import ContributeForm from "../../components/Contributeform";
 import { Link } from "../../routes";
 
 class CampaignShow extends Component {
